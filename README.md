@@ -2,8 +2,6 @@
 
 ![preview](./preview1.png)
 
-https://github.com/user-attachments/assets/c1f9e598-44e0-4b80-ac46-76720a00109b
- 
 > Python + Requests para automação de testes de API
 
  Projeto realizado durante estudos práticos
