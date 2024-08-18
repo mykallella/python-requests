@@ -1,7 +1,7 @@
 # Automação de testes de API com Python + Requests
 
 ![preview](./preview1.png)
-
+ 
 > Python + Requests para automação de testes de API
 
  Projeto realizado durante estudos práticos
@@ -9,7 +9,7 @@
 ## 📚 Tópicos
 
 - Python com a biblioteca Requests para realização de requisições
-- Automação de Testes de API consumindo a API pública 'restful-booker' (https://restful-booker.herokuapp)
+- Automação de Testes de API consumindo a API pública 'restful-booker' (https://restful-booker.herokuapp.com/apidoc/index.html)
 
 ## 🔧 Ferramentas e Tecnologias
 
