@@ -1,7 +1,7 @@
 # Automação de testes de API com Python + Requests
 
 ![preview](./preview1.png)
- 
+
 > Python + Requests para automação de testes de API
 
  Projeto realizado durante estudos práticos
