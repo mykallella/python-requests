@@ -8,7 +8,7 @@
  
 ## 📚 Tópicos
 
-- Python com a biblioteca Requests para realização de requisições automatizadas
+- Python com a biblioteca Requests para requisições automatizadas
 - Automação de Testes de API consumindo a API pública 'restful-booker' (https://restful-booker.herokuapp.com/apidoc/index.html)
 
 ## 🔧 Ferramentas e Tecnologias
